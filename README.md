@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantorres97&layout=compact&langs_count=8&theme=material-palenight"/>
 </div>
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -24,8 +24,11 @@
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 </div>
+
+
+   ![Snake animation](https://github.com/bryantorres97/bryantorres97/blob/output/github-contribution-grid-snake.svg)
+
   
-  ![Snake animation](https://github.com/bryantorres97/bryantorres97/blob/output/github-contribution-grid-snake.svg)
 
   <!--
   ![Snake animation](https://github.com/bryantorres97/bryantorres97/blob/output/github-contribution-grid-snake.svg)
