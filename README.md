@@ -1,11 +1,12 @@
-### Hola! Soy Bryan Torres 👋
+[![MasterHead](https://res.cloudinary.com/dqlcoe6mc/image/upload/v1683511646/resources/banner_udkjax.png)](https://github.com/bryantorres97)
 
 <div align="center">
   <a href="https://github.com/bryantorres97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryantorres97&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantorres97&layout=compact&langs_count=8&theme=material-palenight"/>
 </div>
-  
+
+
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,6 +25,8 @@
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 </div>
+
+
 
 
    ![Snake animation](https://github.com/bryantorres97/bryantorres97/blob/output/github-contribution-grid-snake.svg)
