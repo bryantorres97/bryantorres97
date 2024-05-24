@@ -1,19 +1,18 @@
-<h2 align="left">¡Hola 👋! Soy Bryan Torres, un apasionado de la tecnología y el desarrollo de software.</h2>
+## ¡Hola 👋! Soy Bryan Torres, un apasionado de la tecnología y el desarrollo de software.
 
 ###
+<p align="justify">Me encanta explorar nuevas tecnologías y enfrentar desafíos creativos que me permitan aprender y crecer como profesional. Con experiencia en el Stack MEAN, me esfuerzo por escribir código limpio y eficiente mientras colaboro con equipos para crear soluciones innovadoras. Fuera del mundo del desarrollo, disfruto de escuchar podcasts de entretenimiento y divulgación, disfrutar de las historias de videojuegos y sumergirme en novelas literarias. ¡Estoy emocionado de compartir mi trabajo y contribuir a la comunidad de desarroladores!</p>
 
-<p align="left">Me encanta explorar nuevas tecnologías y enfrentar desafíos creativos que me permitan aprender y crecer como profesional. Con experiencia en el Stack MEAN, me esfuerzo por escribir código limpio y eficiente mientras colaboro con equipos para crear soluciones innovadoras. Fuera del mundo del desarrollo, disfruto de escuchar podcasts de entretenimiento y divulgación, disfrutar de las historias de videojuegos y sumergirme en novelas literarias. ¡Estoy emocionado de compartir mi trabajo y contribuir a la comunidad de desarroladores!</p>
-
-###
+## Mis estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bryantorres97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryantorres97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+## Tecnologías y herramientas
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
