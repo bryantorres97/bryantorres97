@@ -1,5 +1,5 @@
 ## 👋 ¡Hola! Soy Bryan Torres
-#### 🚀 Full Stack Developer | Angular • NestJS • TypeScript • Cloud • IA
+### 🚀 Full Stack Developer | Angular • NestJS • TypeScript • Cloud • IA
 
 <p align="justify">
 Soy <strong>Desarrollador Full Stack</strong> con experiencia en el diseño y desarrollo de aplicaciones web y móviles escalables, enfocadas en rendimiento, mantenibilidad y buena experiencia de usuario. Trabajo principalmente con <strong>Angular, NestJS, Node.js y TypeScript</strong>, y tengo experiencia integrando bases de datos como <strong>PostgreSQL, MongoDB y SQL Server</strong>.
@@ -20,8 +20,15 @@ Fuera del código, disfruto aprender continuamente, escuchar podcasts de divulga
 ## Mis estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryantorres97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryantorres97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bryantorres97&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=86400" 
+    height="160"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantorres97&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=86400" 
+    height="160"
+  />
 </div>
 
 ## Tecnologías y herramientas
