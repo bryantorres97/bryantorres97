@@ -17,20 +17,6 @@ Me interesa especialmente construir soluciones <strong>robustas y escalables</st
 Fuera del código, disfruto aprender continuamente, escuchar podcasts de divulgación y tecnología, explorar narrativas de videojuegos y leer novelas. Siempre estoy abierto a colaborar en proyectos interesantes y a seguir creciendo como profesional.
 </p>
 
-## Mis estadísticas
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bryantorres97&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=86400" 
-    height="160"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantorres97&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=86400" 
-    height="160"
-  />
-</div>
-
 ## Tecnologías y herramientas
 
 <div align="center">
