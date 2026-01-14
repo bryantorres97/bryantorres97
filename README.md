@@ -1,7 +1,21 @@
-## ¡Hola 👋! Soy Bryan Torres, un apasionado de la tecnología y el desarrollo de software.
+## 👋 ¡Hola! Soy Bryan Torres
+#### 🚀 Full Stack Developer | Angular • NestJS • TypeScript • Cloud • IA
 
-###
-<p align="justify">Me encanta explorar nuevas tecnologías y enfrentar desafíos creativos que me permitan aprender y crecer como profesional. Con experiencia en el Stack MEAN, me esfuerzo por escribir código limpio y eficiente mientras colaboro con equipos para crear soluciones innovadoras. Fuera del mundo del desarrollo, disfruto de escuchar podcasts de entretenimiento y divulgación, disfrutar de las historias de videojuegos y sumergirme en novelas literarias. ¡Estoy emocionado de compartir mi trabajo y contribuir a la comunidad de desarroladores!</p>
+<p align="justify">
+Soy <strong>Desarrollador Full Stack</strong> con experiencia en el diseño y desarrollo de aplicaciones web y móviles escalables, enfocadas en rendimiento, mantenibilidad y buena experiencia de usuario. Trabajo principalmente con <strong>Angular, NestJS, Node.js y TypeScript</strong>, y tengo experiencia integrando bases de datos como <strong>PostgreSQL, MongoDB y SQL Server</strong>.
+</p>
+
+<p align="justify">
+A lo largo de mi trayectoria he participado en el desarrollo de <strong>aplicaciones transaccionales, sistemas institucionales y soluciones financieras</strong>, abarcando desde el frontend hasta la arquitectura backend, despliegues en la nube (AWS y GCP), contenedores con Docker y automatización de procesos.
+</p>
+
+<p align="justify">
+Me interesa especialmente construir soluciones <strong>robustas y escalables</strong>, aplicar buenas prácticas de arquitectura, y explorar el uso de <strong>inteligencia artificial</strong> tanto en modelos supervisados como en IA generativa para resolver problemas reales.
+</p>
+
+<p align="justify">
+Fuera del código, disfruto aprender continuamente, escuchar podcasts de divulgación y tecnología, explorar narrativas de videojuegos y leer novelas. Siempre estoy abierto a colaborar en proyectos interesantes y a seguir creciendo como profesional.
+</p>
 
 ## Mis estadísticas
 
